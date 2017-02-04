@@ -15,5 +15,5 @@ about hot inline proxy
 # serve with hot reload at localhost:8080
     npm run dev
     
-# also you can use gulp serve with hot reload at localhost:3000
+# also you can use gulp let serve with hot reload at localhost:3000
     gulp
